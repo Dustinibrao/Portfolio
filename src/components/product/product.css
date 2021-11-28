@@ -24,12 +24,13 @@
 	background-color: white;
 }
 .p-img {
-	width: 100px;
-	transition: all 10s ease;
+	width: 330px;
+	height: 400px;
+	/* transition: all 10s ease; */
 }
-.p:hover .p-img {
+/* .p:hover .p-img {
 	transform: translateY(-100%);
-}
+} */
 @media screen and (max-width: 480) {
 	.p {
 		width: 40%;
