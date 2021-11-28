@@ -1,4 +1,3 @@
-import React from "react";
 import "./product.css";
 
 const Product = ({ img, link }) => {
@@ -10,7 +9,7 @@ const Product = ({ img, link }) => {
 				<div className="p-circle"></div>
 			</div>
 			<a href={link} target="_blank" rel="noreferrer">
-				<img src={img} alt="" className="p-img" />
+				<img src={img} alt="testing" className="p-img" />
 			</a>
 		</div>
 	);

@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import Me from "../../img/me3.png";
+import Me from "../../img/cropPortPFP2.png";
 
 function Intro() {
 	return (
@@ -15,12 +15,16 @@ function Intro() {
 							<div className="i-title-item">
 								Software Engineer
 							</div>
+							<div className="i-title-item">React</div>
+							<div className="i-title-item">
+								MongoDB / Express
+							</div>
+							<div className="i-title-item">HTML / CSS</div>
 						</div>
 					</div>
 					<p className="i-desc">
-						Web developer discription Web developer discription Web
-						developer discription Web developer discription Web
-						developer discription
+						I am a full stack web developer based in Waianae,
+						Hawaii.
 					</p>
 				</div>
 				<svg
