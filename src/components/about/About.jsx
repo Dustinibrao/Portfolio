@@ -23,7 +23,7 @@ function About() {
 					My name is Dustin Ibrao and I develop websites using React.
 					I am new to the industry, originally having a fitness
 					background, but have been loving every minute of it. When I
-					am not coding, I am can be found spending time with my dogs.
+					am not coding, I can be found spending time with my dogs.
 				</p>
 				<div className="a-award">
 					{/* <img src={Award} alt="" className="a-award-img" /> */}
